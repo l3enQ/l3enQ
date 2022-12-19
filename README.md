@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @l3enQ
 - 👀 I’m interested in Qt/C++/QML
-- 🌱 I’m currently learning QML Networking
 
 - 📫 How to reach me Benyamin.saedi@gmail.com
 
